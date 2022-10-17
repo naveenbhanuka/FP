@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FinalProject/app/src/main/res/drawable-v24/ic_baseline_home.xml" value="0.1" />
+        <entry key="..\:/FinalProject/app/src/main/res/drawable-v24/selector_bottom_nav.xml" value="0.1" />
+        <entry key="..\:/FinalProject/app/src/main/res/drawable/bg_card.xml" value="0.1" />
+        <entry key="..\:/FinalProject/app/src/main/res/drawable/bg_gradient_btn.xml" value="0.1" />
+        <entry key="..\:/FinalProject/app/src/main/res/drawable/bg_gradient_lable_round.xml" value="0.1" />
+        <entry key="..\:/FinalProject/app/src/main/res/drawable/bg_item_post.xml" value="0.112" />
+        <entry key="..\:/FinalProject/app/src/main/res/drawable/bg_round_border.xml" value="0.1055" />
+        <entry key="..\:/FinalProject/app/src/main/res/drawable/bg_rounded_border_light_edit_text.xml" value="0.1" />
+        <entry key="..\:/FinalProject/app/src/main/res/drawable/ic_search_normal.xml" value="0.1055" />
+        <entry key="..\:/FinalProject/app/src/main/res/font/roboto_medium.xml" value="0.11018518518518519" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/activity_add_post.xml" value="0.10052910052910052" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/activity_login.xml" value="0.16032608695652173" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/activity_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/activity_view_post.xml" value="0.1735159817351598" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/fragment_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/fragment_profile.xml" value="0.1598731884057971" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/item_post.xml" value="0.22" />
+        <entry key="..\:/FinalProject/app/src/main/res/menu/main_bottom_nav.xml" value="0.17135416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
